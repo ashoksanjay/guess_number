@@ -1,4 +1,4 @@
-var k=Math.floor(Math.random()*10);
+var k=5;
     const inputE1=document.getElementById("input1")
     const resE1  = document.getElementById("result")
     function result(){

@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.con{
+    margin: 0;
+    color: rgb(255, 157, 0);
+}
+input{
+    border-radius: 10px;
+    padding-left: 10px;
+    border-color: aquamarine;
+}
+.container{
+    background-color: beige;
+    height:230px;
+    width:300px;
+    padding-left: 20px;
+    border: 2px solid;
+    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.5);
+}
+.button{
+    border-radius: 10px;
+    padding:5px;
+    border-style: none;
+    background-color: black;
+    color:white;
+}
+.button:hover{
+    background-color: white;
+    color:black;
+}
